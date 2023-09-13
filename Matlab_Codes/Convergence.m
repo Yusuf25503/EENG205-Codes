@@ -1,4 +1,5 @@
-%LU Decomposition 
+%Convergence
+%Written by Yusuf Hani Yusuf 202107475
 
 clc
 clear
