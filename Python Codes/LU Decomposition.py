@@ -1,3 +1,6 @@
+#LU Decomposition 
+#Written by Yusuf Hani Yusuf 202107475
+
 import math
 from sympy import *
 
