@@ -1,3 +1,6 @@
+#Newton Raphson method
+#Written by Yusuf Hani Yusuf 202107475
+
 import pandas as pd
 from sympy import *
 
