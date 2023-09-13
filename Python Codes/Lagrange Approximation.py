@@ -1,3 +1,6 @@
+#Lagrange Approximation 
+#Written by Yusuf Hani Yusuf 202107475
+
 from sympy import *
 import pandas as pd
 
