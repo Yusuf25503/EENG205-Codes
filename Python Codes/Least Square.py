@@ -1,3 +1,5 @@
+#Least Square method
+#Written by Yusuf Hani Yusuf 202107475
 
 from sympy import *
 
