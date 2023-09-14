@@ -26,27 +26,7 @@ A = Matrix([[3,-0.4,0,-0.9,0.02,0.01],
 
 b = Matrix([[1.2],[0],[0],[0],[0.03],[0]])
 
-D = zeros(6,6)
-I = zeros(6,6)
-L = zeros(6,6)
-#Generating D and I Matrices
-for i in range(0,6):
-    for j in range(0,6):
-        if i==j:
-            D[i,j]=A[i,j]
-            I[i,j]=1
-#Generating L Matrix
-for i in range(0,6):
-    for j in range(0,6):
-        if i>=j:
-            L[i,j]=A[i,j]
-#U Matrix
-U = A-L
-#T Matrix
-T = D**-1*(L+U)-I
-#Claculating w
-eig = max(T.eigenvals())
-w = 2.0/(1.0+(1-eig**2))
+w = float(input("Enter the Optimal Relaxation Factor value w = "))
 
 #OR equations 
 X1e = x1 + w/A[0,0]*(b[0,0]-A[0,0]*x1-A[0,1]*x2-A[0,2]*x3-A[0,3]*x4-A[0,4]*x5-A[0,5]*x6)
