@@ -1,5 +1,5 @@
 #Ordinary Differential Equations
-#Written Yusuf Hani Yusuf 202107475
+#Written by Yusuf Hani Yusuf 202107475
 
 import pandas as pd
 import math
