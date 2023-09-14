@@ -1,3 +1,6 @@
+#Ordinary Differential Equations
+#Written Yusuf Hani Yusuf 202107475
+
 import pandas as pd
 import math
 import matplotlib.pyplot as plt
