@@ -1,5 +1,5 @@
 %Least Square method 
-%Written by Yusuf Hani Almoadhen 202107475
+%Written by Yusuf Hani Almoadhen 
 
 clc
 clear
