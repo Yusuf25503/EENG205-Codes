@@ -1,5 +1,5 @@
 #Lagrange Approximation method
-#Written by Yusuf Hani Yusuf 202107475
+#Written by Yusuf Hani Almoadhen
 
 from sympy import *
 import pandas as pd
