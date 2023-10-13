@@ -1,5 +1,5 @@
 %Newton Raphson method (Multivariable)
-%Written by Yusuf Hani Almoadhen 202107475
+%Written by Yusuf Hani Almoadhen 
 
 clc
 clear
