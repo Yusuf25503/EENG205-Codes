@@ -1,5 +1,5 @@
 #Gauss Seidel (Nonlinear)
-#Written by Yusuf Hani Yusuf 202107475
+#Written by Yusuf Hani Almoadhen
 
 import pandas as pd 
 import math
