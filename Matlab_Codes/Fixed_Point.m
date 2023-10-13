@@ -1,5 +1,5 @@
 %Fixed-point method (Gauss Jacobi for linear equations)
-%Written by Yusuf Hani Almoadhen 202107475
+%Written by Yusuf Hani Almoadhen 
 
 clc
 clear 
