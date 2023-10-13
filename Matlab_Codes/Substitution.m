@@ -1,4 +1,5 @@
 %Substitution method 
+%Written by Yusuf Hani Almoadhen
 
 clc
 clear 
