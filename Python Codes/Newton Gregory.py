@@ -1,5 +1,5 @@
 #Newton Gregory
-#Written by Yusuf Hani Yusuf 202107475
+#Written by Yusuf Hani Almoadhen
 
 import pandas as pd
 from sympy import *
