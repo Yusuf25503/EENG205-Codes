@@ -70,5 +70,4 @@ print("Bisection method:",'\n')
 print(table.to_markdown(index=False),'\n')
 if k>i:
     print("You have exceeded the maximum number of iterations according to the specified Tolerance!!",'\n')
-print("The roots is", "{:.5g}".format(float(c)))
-
+print("The root is", "{:.5g}".format(float(c)))
